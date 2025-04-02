@@ -12,3 +12,5 @@
 - complete template, template images use the artfight ref artstyles for easier reference
 - draw website-wide assets (favicon, charpile logo, universe icons etc)
 - artfight: archive the toyhouse wildcard page and submit a similar page that leads to this website instead
+- after that just add more characters lma
+- o
