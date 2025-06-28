@@ -1,4 +1,10 @@
 /* CSS styles */
+
+body {
+	background-color: #222222; 
+	color: white;
+}
+
 .center {
   text-align: center;
 }
@@ -24,4 +30,3 @@
   padding-right:
   */
 }
-	  
